@@ -35,6 +35,9 @@ th {
 	font-weight: bold;
 	background-color: #96D4D4;
 }
+th:hover {
+	background-color: #ffffff;
+}
 .PlanetData{
 	padding: 1px;
 }
