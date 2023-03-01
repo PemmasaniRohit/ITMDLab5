@@ -4,7 +4,14 @@ h1{
 	padding: 15px;
 	font_family: Times, "Times New Roman";
 	text-align: center;
-	text-decoration: underline;
+	text-decoration: underline overline;
+}
+h2{
+	font-size: 40px;
+	color: #5087D4;
+	padding: 10px;
+	font_family: Times, "Times New Roman";
+	text-align: center;
 }
 td, th {
 	color: #002B67;
