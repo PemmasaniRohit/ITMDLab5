@@ -28,6 +28,8 @@ td {
 	font-family: "Lucida Console", "Courier New";
 	background-color: #96D4D4;
   }
+th:hover {
+  background-color: #FFB6C1;
 th {
 	color: #002B67;
 	border: 2px solid;
