@@ -6,12 +6,18 @@ h1{
 	text-align: center;
 	text-decoration: underline overline;
 }
+h1:hover {
+  transform: scale(1.5);
+}
 h2{
 	font-size: 15px;
 	color: #5087D4;
 	padding: 10px;
 	font_family: Times, "Times New Roman";
 	text-align: center;
+}
+h2:hover {
+  transform: scale(1.5);
 }
 td {
 	color: #002B67;
