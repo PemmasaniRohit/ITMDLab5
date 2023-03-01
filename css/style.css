@@ -4,6 +4,7 @@ h1{
 	padding: 15px;
 	font_family: Times, "Times New Roman";
 	text-align: center;
+	text-decoration: underline;
 }
 td, th {
 	color: #FE5733;
