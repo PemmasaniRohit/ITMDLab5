@@ -31,7 +31,7 @@ td {
 th {
 	color: #002B67;
 	border: 2px solid;
-	font-size: 15;
+	font-size: 15px;
 	padding: 5px;
 	font-family: "Lucida Console", "Courier New";
 	font-weight: bold;
@@ -39,7 +39,6 @@ th {
 }
 th:hover {
   background-color: #FFB6C1;
-}
 }
 .PlanetData{
 	padding: 1px;
