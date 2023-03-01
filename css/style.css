@@ -13,12 +13,20 @@ h2{
 	font_family: Times, "Times New Roman";
 	text-align: center;
 }
-td, th {
+td {
 	color: #002B67;
 	border: 1px solid;
 	padding: 5px;
 	font-family: "Lucida Console", "Courier New";
   }
+th {
+	color: #002B67;
+	border: 2px solid;
+	font-size: 15;
+	padding: 5px;
+	font-family: "Lucida Console", "Courier New";
+	font-weight: bold;
+}
 .PlanetData{
 	padding: 1px;
 }
