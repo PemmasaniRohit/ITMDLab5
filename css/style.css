@@ -41,8 +41,6 @@ th {
 	background-color: #96D4D4;
 	transition: transform 2000ms ease;
 }
-th:hover {
-	background-color: #ffffff;
 }
 .PlanetData{
 	padding: 1px;
