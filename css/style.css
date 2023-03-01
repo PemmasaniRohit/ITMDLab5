@@ -2,7 +2,7 @@ h1{
 	font-size: 50px;
 	color: #0033cc;
 	padding: 15px;
-	font_family: Times, "Times New Roman";
+	font-family: Times, "Times New Roman";
 	text-align: center;
 	text-decoration: underline overline;
 	transition: transform 2000ms ease;
@@ -14,7 +14,7 @@ h2{
 	font-size: 15px;
 	color: #5087D4;
 	padding: 10px;
-	font_family: Times, "Times New Roman";
+	font-family: Times, "Times New Roman";
 	text-align: center;
 	transition: transform 2000ms ease;
 }
@@ -28,8 +28,6 @@ td {
 	font-family: "Lucida Console", "Courier New";
 	background-color: #96D4D4;
   }
-th:hover {
-  background-color: #FFB6C1;
 th {
 	color: #002B67;
 	border: 2px solid;
@@ -38,6 +36,9 @@ th {
 	font-family: "Lucida Console", "Courier New";
 	font-weight: bold;
 	background-color: #96D4D4;
+}
+th:hover {
+  background-color: #FFB6C1;
 }
 }
 .PlanetData{
