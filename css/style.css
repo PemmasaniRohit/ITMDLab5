@@ -3,7 +3,10 @@ h1{
 	color: #0033cc;
 	padding: 15px;
 	font_family: Times, "Times New Roman";
+	text-align: center;
 }
 td, th {
+	color: #FE5733;
 	border: 1px solid;
+	padding: 5px;
   }
